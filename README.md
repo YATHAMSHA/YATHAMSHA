@@ -8,18 +8,17 @@
 
 
 <br />
-<h3>Hey I'm Yatham I'm a student from India, currently pursuing my B-Tech in Computer Science. Feel free to contact me if you want to work on something together.</h3>
+<h3>Hey I'm Yatham I'm a student from India, currently pursuing my B-Tech in Computer Science.my passion  lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3>
 
 <br/>
 
 **About Me**
 
 - 🔭 I’m currently working on some exciting projects
-- 🌱 I’m currently learning full stack development  and blockchain development
-- 👯 I’m looking to collaborate on projects and hackathons
+- 🌱 I’m currently Focusing on  full stack development and blockchain development
+- 👯 I’m looking to collaborate on projects,hackathons and open source projects
 - 📫 How to reach me: yatham024@gmail.com 
 - 💬 Ask me about chocolates
-- 😄 Pronouns: He/Him
 
 <br />
 
