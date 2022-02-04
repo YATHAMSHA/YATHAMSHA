@@ -5,9 +5,7 @@
 <a href="https://www.linkedin.com/in/shaik-jellu-yatham-shavali-b19b5b205/">
   <img align="left" alt="Yatham's linekdin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox">
-  <img align="left" alt="Yatham's Email" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/Gmail.svg" />
-</a>
+
 
 <br />
 <h3>Hey I'm Yatham I'm a student from India, currently pursuing my B-Tech in Computer Science. Feel free to contact me if you want to work on something together.</h3>
