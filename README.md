@@ -12,6 +12,8 @@
 
 <br/>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/gioLPAqDRZjzYpmuCp/giphy.gif" />
+
 **About Me**
 
 - 🔭 I’m currently working on some exciting projects
