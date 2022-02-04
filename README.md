@@ -14,7 +14,7 @@
 **About Me**
 
 - 🔭 I’m currently working on some exciting projects
-- 🌱 I’m currently learning full stack development  and solidity
+- 🌱 I’m currently learning full stack development  and blockchain development
 - 👯 I’m looking to collaborate on projects and hackathons
 - 📫 How to reach me: yatham024@gmail.com 
 - 💬 Ask me about chocolates
