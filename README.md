@@ -7,7 +7,8 @@
 </a>
 
 <br />
-<h3 align="center">Hey I'm Yatham I'm a student from India, currently pursuing my B-Tech in Computer Science. Feel free to contact me if you want to work on something together.</h3>
+<h3>Hey I'm Yatham I'm a student from India, currently pursuing my B-Tech in Computer Science. Feel free to contact me if you want to work on something together.</h3>
+
 <img align="right" alt="GIF" src="https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-QyPgvXCIQ1nbCRDIXS" />
 <br/>
 
@@ -29,7 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yathamsha&show_icons=true&locale=en&layout=compact" alt="yathamsha" /></p>
 <br />
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yathamsha&show_icons=true&locale=en" alt="yathamsha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yathamsha&show_icons=true&locale=en" alt="yathamsha" /></p>
 <br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yathamsha&" alt="yathamsha" /></p>
