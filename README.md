@@ -2,7 +2,7 @@
 <a href="https://twitter.com/YaTHaM5">
   <img align="left" alt="Yatham's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/shaik-jellu-yatham-shavali-b19b5b205/">
+<a href="https://www.linkedin.com/in/yatham024/">
   <img align="left" alt="Yatham's linekdin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
