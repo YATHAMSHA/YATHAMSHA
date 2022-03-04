@@ -8,7 +8,7 @@
 
 
 <br />
-<h3>Hey I'm Yatham I'm a student from India, currently pursuing my B-Tech in Computer Science.my passion  lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3>
+<h3>Hey I'm Yatham I'm a student from India, currently pursuing my B-Tech in Computer Science.My passion  lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
 
 <br/>
 
