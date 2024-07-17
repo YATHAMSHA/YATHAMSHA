@@ -1,7 +1,7 @@
 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> -->
 
-<h3>Hey I'm Yatham I'm a student from India, currently pursuing my B-Tech in Computer Science.My passion  lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
+<h3>Hey, I'm Yatham! I'm a full-stack developer based in India, with a B-Tech in Computer Science. I'm passionate about turning creative ideas into reality through sleek and intuitive interfaces. I specialize in crafting exceptional user experiences, designing robust architectures, and delivering high-quality code across the stack. Let's build something amazing together!h3>
 
 <br/>
 
