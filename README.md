@@ -30,7 +30,7 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="jquery" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>
 
 
 
